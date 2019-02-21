@@ -1,0 +1,48 @@
+/*
+ * 娓呴櫎娴姩
+ */
+.banner {
+  height: 280px;
+  background: url(../images/ny_banner.jpg) no-repeat center center;
+}
+.about {
+  margin-top: 45px;
+}
+.about-main {
+  width: 864px;
+  border: solid 1px #e5e5e5;
+  background-color: #fff;
+}
+.about-main .head {
+  text-align: right;
+  height: 38px;
+  line-height: 38px;
+  border-bottom: solid 1px #e5e5e5;
+  padding-right: 11px;
+  color: #999999;
+  background-color: #f9f9f9;
+}
+.about-main .head a{color: #999999;}
+.about-main .p1 {
+  color: #999999;
+  line-height: 30px;
+  padding: 43px 31px 28px 23px;
+}
+.about-main table {
+  border: 5px solid #e5e5e5;
+  margin: auto;
+  margin-bottom: 45px;
+}
+.about-main table tr {
+  border-bottom: 1px solid #ddd;
+}
+.about-main table td.td1 {
+  width: 150px;
+  background-color: #eee;
+}
+.about-main table td.td2 {
+  width: 170px;
+}
+.about-main table td {
+  padding: 10px;
+}
